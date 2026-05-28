@@ -1,6 +1,6 @@
 # ParcelTransformPipeline
 
-ParcelTransformPipeline is a small Python project that demonstrates how a
+ParcelTransformPipeline is a Python project that demonstrates how a
 robotic parcel-sorting cell can move detections through a coordinate-frame
 pipeline.
 
